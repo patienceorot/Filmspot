@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322976488740",
+    "project_id": "movieapp-a4089",
+    "storage_bucket": "movieapp-a4089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322976488740:android:a7d1352e051b357e5ae7b1",
+        "android_client_info": {
+          "package_name": "com.patience.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM0GoCzTplUfoLS6o8TFIN5f5AaHuxneo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
